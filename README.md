@@ -2,8 +2,11 @@
 A simple restaurant template . Completely operatable and easy to understand
 STEPS TO INSTALL
 1.DOWNLOAD THE RAR FILE
+
 2.EXTRACT THE FILE IN A FOLDER
+
 3.THE FOLDER WOULD COMPRISE THE FOLLOWING
+
     - food (folder file of images for menu)
     - images (other necessary images for decoration of website)
     - menu (html page for menu)
